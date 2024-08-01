@@ -1,0 +1,33 @@
+{
+    "parameterSets": {
+        "55": {
+            "cylinder_size": "2.75",
+            "depth": "25",
+            "edge_flow_box_depth": "4",
+            "epsilon": "0.001",
+            "height": "45",
+            "neck": "3",
+            "shell_thickness": "2",
+            "side_slot_extra_depth": "0",
+            "slot_space": "2",
+            "slot_width": "2",
+            "width": "29.8"
+        },
+        "75And110": {
+            "cylinder_size": "2.75",
+            "depth": "25",
+            "edge_flow_box_depth": "4",
+            "epsilon": "0.001",
+            "height": "70",
+            "neck": "3",
+            "shell_thickness": "2",
+            "side_slot_extra_depth": "0",
+            "slot_offset": "1",
+            "slot_space": "2",
+            "slot_width": "2",
+            "width": "40"
+        }
+    },
+    "parameterSets": "",
+    "fileFormatVersion": "1"
+}
